@@ -1,4 +1,4 @@
-# Threed Socialfi dApp
+# Threed Socialfi dApp 🟥
 
 Threed is a socialfi dApp built on the Sui blockchain that allows users to create and join communities using token-gated NFTs.  
 Users can also mint, list, and transfer NFTs within these communities.  
